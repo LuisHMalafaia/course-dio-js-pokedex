@@ -13,3 +13,4 @@ As seguintes tecnologias foram utilizadas no desenvolvimento desse projeto:
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **[PokeAPI](https://pokeapi.co/)**
